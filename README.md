@@ -16,6 +16,6 @@
   ㅤ<img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauzy-goes&layout=donut&theme=merko&langs_count=6" />
 </a>
 
-<h4>Sou apaixonado por tecnologia, conhecimento e por impactar positivamente o mundo por meio da programação ❤️</h4>
+<h4>Sou apaixonado por tecnologia, conhecimento e inovação ❤️</h4>
 
 
