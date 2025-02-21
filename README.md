@@ -3,16 +3,16 @@
 <h3>Sou um desenvolvedor Full-Stack, estou bacharelando engenharia de software (7/8) 👨🏻‍💻  </h3>
 <h4>Sou apaixonado por tecnologia, conhecimento e inovação 🚀</h4>
 
-  <a href="mailto:cauafariasdev@gmail.com?subject=[GitHub]%20Let's%20talk!" >
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a>__</a>
   <a href="https://www.linkedin.com/in/cau%C3%A3-farias-739013288/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a>__</a>
   <a href="https://github.com/CauZy-Goes" >
     <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a>__</a>
+  <a href="mailto:cauafariasdev@gmail.com?subject=[GitHub]%20Let's%20talk!" >
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a>__</a>
    <a href="https://x.com/cauzy_goes" >
