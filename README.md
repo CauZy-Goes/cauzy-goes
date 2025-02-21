@@ -1,21 +1,47 @@
-<h2>Saudações, Sou o Cauã Farias ✅</h2>
+<div align="center">
+<h1 style="border: none;">🌊 Saudações, Sou o Cauã Farias 🌊</h1>
+<h3>Sou um desenvolvedor Full-Stack, estou bacharelando engenharia de software (7/8) 👨🏻‍💻  </h3>
+<h4>Sou apaixonado por tecnologia, conhecimento e inovação 🚀</h4>
+
+  <a href="mailto:cauafariasdev@gmail.com?subject=[GitHub]%20Let's%20talk!" >
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a>__</a>
+  <a href="https://www.linkedin.com/in/cau%C3%A3-farias-739013288/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a>__</a>
+  <a href="https://github.com/CauZy-Goes" >
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a>__</a>
+   <a href="https://x.com/cauzy_goes" >
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</div>
+
+---
 
 
 
-<div style="align: center">
-  
- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cauã-farias-739013288/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauafariasdev@gmail.com) [![DevTo](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cauzydev)                                                                                                                                                                                                                     ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+<div align="center">
+  <a >
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=cauzy-goes&show_icons=true&theme=transparent" />
+  </a>
+  <a>__________</a>
+  <a>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauzy-goes&layout=donut&theme=transparent&langs_count=6" />
+  </a>
+</div>
 
-<div/>
 
-<a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=cauzy-goes&show_icons=true&theme=merko" />
-</a>
-<a>
-  ㅤ<img height=200  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauzy-goes&layout=donut&theme=merko&langs_count=6" />
-</a>
+---
 
-<h4>Sou apaixonado por tecnologia, conhecimento e inovação ❤️</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,hibernate,spring,py,django,js,nodejs,react,git,mysql,postgres,mongodb,firebase,vite,idea" />
+  </a>
+</p>
+
 
 
