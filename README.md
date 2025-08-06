@@ -34,10 +34,12 @@
   </a>
 </div>
 
-<!--
+---
+
+
 <div align="center">
 <h2>⏲️ Meu WakaTime ⏲️ </h2>
--->
+
 <!--START_SECTION:waka-->
 
 ```Haskell
@@ -57,9 +59,9 @@ Other             30 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka--> 
-<!--
+
 </div>
--->
+
 
 ---
 
