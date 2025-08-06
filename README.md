@@ -28,17 +28,14 @@
   <a >
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=cauzy-goes&show_icons=true&theme=transparent" />
   </a>
-  <a>__________</a>
+  <a>____________</a>
   <a>
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauzy-goes&layout=donut&theme=transparent&langs_count=6" />
   </a>
 </div>
 
----
-
 
 <div align="center">
-<h2>⏲️ WakaTime ⏲️ </h2>
 
 <!--START_SECTION:waka-->
 
