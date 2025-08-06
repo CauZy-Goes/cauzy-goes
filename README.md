@@ -42,7 +42,7 @@
 
 <!--START_SECTION:waka-->
 
-```json
+```java
 From: 04 January 2025 - To: 06 August 2025
 
 Total Time: 49 hrs 19 mins
