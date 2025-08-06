@@ -38,11 +38,11 @@
 
 
 <div align="center">
-<h2>⏲️ Meu WakaTime ⏲️ </h2>
+<h2>⏲️ WakaTime ⏲️ </h2>
 
 <!--START_SECTION:waka-->
 
-```java
+```dart
 From: 04 January 2025 - To: 06 August 2025
 
 Total Time: 49 hrs 19 mins
