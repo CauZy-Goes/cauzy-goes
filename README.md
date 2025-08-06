@@ -20,9 +20,9 @@
   </a>
 </div>
 
----
 
 
+<br/>
 
 <div align="center">
   <a >
@@ -33,6 +33,8 @@
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauzy-goes&layout=donut&theme=transparent&langs_count=6" />
   </a>
 </div>
+
+<br/>
 
 
 <div align="center">
