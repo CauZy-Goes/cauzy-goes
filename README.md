@@ -42,7 +42,7 @@
 <!--START_SECTION:waka-->
 
 ```dart
-From: 04 January 2025 - To: 23 February 2026
+From: 04 January 2025 - To: 24 February 2026
 
 Total Time: 97 hrs 39 mins
 
