@@ -1,6 +1,6 @@
 <div align="center">
 <h1 style="border: none;">🌊 Saudações, Sou o Cauã Farias 🌊</h1>
-<h3>Sou um desenvolvedor Full-Stack, sou Engenheiro de Software👨🏻‍💻  </h3>
+<h3>Sou Engenheiro de Software👨🏻‍💻  </h3>
 <h4>Sou apaixonado por tecnologia, conhecimento e inovação 🚀</h4>
 
   <a href="https://www.linkedin.com/in/cau%C3%A3-farias-739013288/">
