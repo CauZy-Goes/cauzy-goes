@@ -3,26 +3,7 @@
 <h3>Prazer, sou um Engenheiro de Software, especializado em Desenvolvimento Full-Stack 👨🏻‍💻</h3>
 </div>
 
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/cau%C3%A3-farias-739013288/" style="margin-right: 300px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="https://github.com/CauZy-Goes" style="margin-right: 300px;">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-
-  <a href="mailto:cauafariasdev@gmail.com?subject=[GitHub]%20Let's%20talk!" style="margin-right: 300px;">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-  <a href="https://x.com/cauzy_goes">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-
-</div>
-
+<div align="center"><a href="https://www.linkedin.com/in/cau%C3%A3-farias-739013288/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/CauZy-Goes"><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;&nbsp;&nbsp;<a href="mailto:cauafariasdev@gmail.com?subject=[GitHub]%20Let's%20talk!"><img src="https://skillicons.dev/icons?i=gmail" /></a>&nbsp;&nbsp;&nbsp;<a href="https://x.com/cauzy_goes"><img src="https://skillicons.dev/icons?i=twitter" /></a></div>
 
 
 <br/>
@@ -31,7 +12,7 @@
   <a >
     <img height="200" src="https://github-readme-stats.shion.dev/api?username=cauzy-goes&show_icons=true&theme=transparent" />
   </a>
-  <a>______________</a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
     <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cauzy-goes&layout=donut&theme=transparent&langs_count=6&exclude_repo=Spring_Journey" />
   </a>
