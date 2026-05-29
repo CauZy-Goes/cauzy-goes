@@ -1,23 +1,26 @@
 <div align="center">
 <h1 style="border: none;">🌊 Saudações, Sou o Cauã Farias 🌊</h1>
-<h3>Sou um Engenheiro de Software, especializado em Desenvolvimento Full-Stack 👨🏻‍💻</h3>
-<h4>Sou apaixonado por tecnologia, conhecimento e inovação 🚀</h4>
+<h3>Prazer, sou um Engenheiro de Software, especializado em Desenvolvimento Full-Stack 👨🏻‍💻</h3>
+</div>
 
-  <a href="https://www.linkedin.com/in/cau%C3%A3-farias-739013288/">
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/cau%C3%A3-farias-739013288/" style="margin-right: 300px;">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a>__</a>
-  <a href="https://github.com/CauZy-Goes" >
+
+  <a href="https://github.com/CauZy-Goes" style="margin-right: 300px;">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a>__</a>
-  <a href="mailto:cauafariasdev@gmail.com?subject=[GitHub]%20Let's%20talk!" >
+
+  <a href="mailto:cauafariasdev@gmail.com?subject=[GitHub]%20Let's%20talk!" style="margin-right: 300px;">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a>__</a>
-   <a href="https://x.com/cauzy_goes" >
+
+  <a href="https://x.com/cauzy_goes">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
+
 </div>
 
 
