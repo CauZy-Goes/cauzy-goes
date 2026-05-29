@@ -12,7 +12,7 @@
   <a >
     <img height="200" src="https://github-readme-stats.shion.dev/api?username=cauzy-goes&show_icons=true&theme=transparent" />
   </a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a>
     <img height="200" src="https://github-readme-stats.shion.dev/api/top-langs/?username=cauzy-goes&layout=donut&theme=transparent&langs_count=6&exclude_repo=Spring_Journey" />
   </a>
