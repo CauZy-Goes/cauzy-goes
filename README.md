@@ -1,5 +1,5 @@
 <div align="center">
-<h1 style="border: none;">🌊 Saudações, Sou o Cauã Goes Farias 🌊</h1>
+<h1 style="border: none;">🌊 Saudações, sou o Cauã Goes Farias 🌊</h1>
 <h3>Engenheiro de Software especializado em Desenvolvimento Full-Stack</h3>
 </div>
 
