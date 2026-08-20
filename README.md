@@ -50,7 +50,7 @@ Other                 1 hr 37 mins          ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,docker,postman,js,ts,nodejs,react,next,py,git,mysql,postgres,mongodb,firebase" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,postman,js,ts,nodejs,react,next,angular,py,mysql,postgres,mongodb,firebase" />
   </a>
 </p>
 
